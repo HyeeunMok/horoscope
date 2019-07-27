@@ -1,0 +1,11 @@
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\bin\Debug\Horoscope.exe.config
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\bin\Debug\Horoscope.exe
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\bin\Debug\Horoscope.pdb
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.csprojAssemblyReference.cache
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.Form1.resources
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.Form2.resources
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.Properties.Resources.resources
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.csproj.GenerateResource.cache
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.csproj.CoreCompileInputs.cache
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.exe
+C:\Users\sloth\Documents\Sheridan\fourthSemester\C#_Net\Assignments\InClass2\Horoscope\Horoscope\obj\Debug\Horoscope.pdb
