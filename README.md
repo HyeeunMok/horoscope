@@ -16,3 +16,5 @@ GUI Horoscope application using C# and Window form
    -- Brings up a dialog as a modal window
    
    -- The dialog displays in a Text Box, a random prediction for every sign in the zodiac 
+
+![](horoscope.gif)
