@@ -1,5 +1,5 @@
 # horoscope
-GUI Horoscope application
+GUI Horoscope application using C# and Window form
 
 - A combo-box displaying all the signs
 
