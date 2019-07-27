@@ -12,5 +12,7 @@ GUI Horoscope application
 - Button to display a random prediction for the selected sign
 
 - Button to display the entire horoscope
+
    -- Brings up a dialog as a modal window
+   
    -- The dialog displays in a Text Box, a random prediction for every sign in the zodiac 
